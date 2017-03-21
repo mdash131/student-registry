@@ -1,18 +1,22 @@
-# e2 po yung web app dev 2 assaingment
+# eto po yung web app dev 2 assaingment
  
- ![alt text](screenshots/student list.JPG)
- 
- 
- -------------------------------------------------------------------------------------------
- ![alt tag](screenshots/student form.JPG)
+ eto po yun list
+ ![alt tag](screenshots/4.JPG)
  
  
  -------------------------------------------------------------------------------------------
- ![alt tag](screenshots/student form edit.JPG)
+ eto namn yung pag mag a-add
+ ![alt tag](screenshots/3.JPG)
  
  
  -------------------------------------------------------------------------------------------
- ![alt tag](screenshots/student delete.JPG)
+ then edit
+ ![alt tag](screenshots/2.JPG)
+ 
+ 
+ -------------------------------------------------------------------------------------------
+ then the soft delete
+ ![alt tag](screenshots/1.JPG)
  
  
  -------------------------------------------------------------------------------------------
