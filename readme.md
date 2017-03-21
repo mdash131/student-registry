@@ -1,10 +1,11 @@
  e2 po yung web app dev 2 assaingment
  
- ![alt tag](screenshots/student list.jpg)
+ ![alt tag](screenshots/student list.JPG)
  -------------------------------------------------------------------------------------------
- ![alt tag](screenshots/student form.jpg)
+ ![alt tag](screenshots/student form.JPG)
  -------------------------------------------------------------------------------------------
- ![alt tag](screenshots/student form edit.jpg)
+ ![alt tag](screenshots/student form edit.JPG)
  -------------------------------------------------------------------------------------------
- ![alt tag](screenshots/student delete.jpg)
+ ![alt tag](screenshots/student delete.JPG)
  -------------------------------------------------------------------------------------------
+    
